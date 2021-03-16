@@ -1,0 +1,20 @@
+{
+  "api_version": "2.0",
+  "query": {
+    "ac": "P0DTD8"
+  },
+  "query_date": "2021-03-15T23:27:51.040Z",
+  "result": {
+    "crc64": "33DE6E3EBAEF1D9F",
+    "md5": "c7f0179da4ca26456ee905081f485cc8",
+    "sequence": "MIELSLIDFYLCFLAFLLFLVLIMLIIFWFSLELQDHNETCHA",
+    "sequence_length": 43,
+    "structures": [],
+    "uniprot_entries": [
+      {
+        "ac": "P0DTD8",
+        "id": "NS7B_SARS2"
+      }
+    ]
+  }
+}
