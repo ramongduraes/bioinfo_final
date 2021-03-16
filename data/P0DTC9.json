@@ -1,0 +1,1462 @@
+{
+  "api_version": "2.0",
+  "query": {
+    "ac": "P0DTC9"
+  },
+  "query_date": "2021-03-15T23:27:42.635Z",
+  "result": {
+    "crc64": "56688DB785414E81",
+    "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+    "sequence": "MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGSQASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQQQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFPPTEPKKDKKKKADETQALPQRQKKQQTVTLLPAADLDDFSKQLQQSMSSADSTQA",
+    "sequence_length": 419,
+    "structures": [
+      {
+        "chains": [
+          {
+            "id": "C",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "LLLDRLNQL",
+                  "description": "Nucleoprotein",
+                  "from": 1,
+                  "to": 9
+                },
+                "uniprot": {
+                  "aligned_sequence": "LLLDRLNQL",
+                  "from": 222,
+                  "to": 230
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=222-230&template=7kgq&provider=pdb",
+        "coverage": 0.021479713603818614,
+        "created_date": "2021-01-20",
+        "from": 222,
+        "in_complex_with": {
+          "A": [
+            {
+              "description": "MHC class I antigen",
+              "uniprot_ac": "Q861F7"
+            }
+          ],
+          "B": [
+            {
+              "description": "Beta-2-microglobulin",
+              "uniprot_ac": "P61769"
+            }
+          ]
+        },
+        "ligand_chains": [
+          {
+            "count": 2,
+            "ligands": [
+              {
+                "description": "CADMIUM ION",
+                "hetid": "CD"
+              }
+            ]
+          },
+          {
+            "count": 2,
+            "ligands": [
+              {
+                "description": "CALCIUM ION",
+                "hetid": "CA"
+              }
+            ]
+          },
+          {
+            "count": 1,
+            "ligands": [
+              {
+                "description": "1,2-ETHANEDIOL",
+                "hetid": "EDO"
+              }
+            ]
+          }
+        ],
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "X-RAY DIFFRACTION",
+        "oligo-state": "heteromer",
+        "provider": "PDB",
+        "template": "7kgq",
+        "to": 230
+      },
+      {
+        "chains": [
+          {
+            "id": "C",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "GMSRIGMEV",
+                  "description": "Nucleoprotein",
+                  "from": 1,
+                  "to": 9
+                },
+                "uniprot": {
+                  "aligned_sequence": "GMSRIGMEV",
+                  "from": 316,
+                  "to": 324
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=316-324&template=7kgp&provider=pdb",
+        "coverage": 0.021479713603818614,
+        "created_date": "2021-01-20",
+        "from": 316,
+        "in_complex_with": {
+          "A": [
+            {
+              "description": "MHC class I antigen",
+              "uniprot_ac": "Q861F7"
+            }
+          ],
+          "B": [
+            {
+              "description": "Beta-2-microglobulin",
+              "uniprot_ac": "P61769"
+            }
+          ]
+        },
+        "ligand_chains": [
+          {
+            "count": 1,
+            "ligands": [
+              {
+                "description": "ACETATE ION",
+                "hetid": "ACT"
+              }
+            ]
+          },
+          {
+            "count": 2,
+            "ligands": [
+              {
+                "description": "CADMIUM ION",
+                "hetid": "CD"
+              }
+            ]
+          },
+          {
+            "count": 4,
+            "ligands": [
+              {
+                "description": "SODIUM ION",
+                "hetid": "NA"
+              }
+            ]
+          }
+        ],
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "X-RAY DIFFRACTION",
+        "oligo-state": "heteromer",
+        "provider": "PDB",
+        "template": "7kgp",
+        "to": 324
+      },
+      {
+        "chains": [
+          {
+            "id": "C",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "LQLPQGTTL",
+                  "description": "Nucleoprotein",
+                  "from": 1,
+                  "to": 9
+                },
+                "uniprot": {
+                  "aligned_sequence": "LQLPQGTTL",
+                  "from": 159,
+                  "to": 167
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=159-167&template=7kgr&provider=pdb",
+        "coverage": 0.021479713603818614,
+        "created_date": "2021-01-20",
+        "from": 159,
+        "in_complex_with": {
+          "A": [
+            {
+              "description": "MHC class I antigen",
+              "uniprot_ac": "Q861F7"
+            }
+          ],
+          "B": [
+            {
+              "description": "Beta-2-microglobulin",
+              "uniprot_ac": "P61769"
+            }
+          ]
+        },
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "X-RAY DIFFRACTION",
+        "oligo-state": "heteromer",
+        "provider": "PDB",
+        "template": "7kgr",
+        "to": 167
+      },
+      {
+        "chains": [
+          {
+            "id": "C",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "ALNTPKDHI",
+                  "description": "Nucleoprotein",
+                  "from": 1,
+                  "to": 9
+                },
+                "uniprot": {
+                  "aligned_sequence": "ALNTPKDHI",
+                  "from": 138,
+                  "to": 146
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=138-146&template=7kgs&provider=pdb",
+        "coverage": 0.021479713603818614,
+        "created_date": "2021-01-20",
+        "from": 138,
+        "in_complex_with": {
+          "A": [
+            {
+              "description": "MHC class I antigen",
+              "uniprot_ac": "Q861F7"
+            }
+          ],
+          "B": [
+            {
+              "description": "Beta-2-microglobulin",
+              "uniprot_ac": "P61769"
+            }
+          ]
+        },
+        "ligand_chains": [
+          {
+            "count": 2,
+            "ligands": [
+              {
+                "description": "CADMIUM ION",
+                "hetid": "CD"
+              }
+            ]
+          },
+          {
+            "count": 1,
+            "ligands": [
+              {
+                "description": "ACETATE ION",
+                "hetid": "ACT"
+              }
+            ]
+          }
+        ],
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "X-RAY DIFFRACTION",
+        "oligo-state": "heteromer",
+        "provider": "PDB",
+        "template": "7kgs",
+        "to": 146
+      },
+      {
+        "chains": [
+          {
+            "id": "C",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "ILLNKHIDA",
+                  "description": "Nucleoprotein",
+                  "from": 1,
+                  "to": 9
+                },
+                "uniprot": {
+                  "aligned_sequence": "ILLNKHIDA",
+                  "from": 351,
+                  "to": 359
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=351-359&template=7kgo&provider=pdb",
+        "coverage": 0.021479713603818614,
+        "created_date": "2021-01-20",
+        "from": 351,
+        "in_complex_with": {
+          "A": [
+            {
+              "description": "MHC class I antigen",
+              "uniprot_ac": "Q861F7"
+            }
+          ],
+          "B": [
+            {
+              "description": "Beta-2-microglobulin",
+              "uniprot_ac": "P61769"
+            }
+          ]
+        },
+        "ligand_chains": [
+          {
+            "count": 3,
+            "ligands": [
+              {
+                "description": "NICKEL (III) ION",
+                "hetid": "3NI"
+              }
+            ]
+          },
+          {
+            "count": 3,
+            "ligands": [
+              {
+                "description": "CHLORIDE ION",
+                "hetid": "CL"
+              }
+            ]
+          },
+          {
+            "count": 1,
+            "ligands": [
+              {
+                "description": "CADMIUM ION",
+                "hetid": "CD"
+              }
+            ]
+          }
+        ],
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "X-RAY DIFFRACTION",
+        "oligo-state": "heteromer",
+        "provider": "PDB",
+        "template": "7kgo",
+        "to": 359
+      },
+      {
+        "chains": [
+          {
+            "id": "C",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "RLN",
+                  "description": "Nucleoprotein",
+                  "from": 1,
+                  "to": 3
+                },
+                "uniprot": {
+                  "aligned_sequence": "RLN",
+                  "from": 226,
+                  "to": 228
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=226-228&template=7kgt&provider=pdb",
+        "coverage": 0.007159904534606206,
+        "created_date": "2021-01-20",
+        "from": 226,
+        "in_complex_with": {
+          "A": [
+            {
+              "description": "MHC class I antigen",
+              "uniprot_ac": "Q861F7"
+            }
+          ],
+          "B": [
+            {
+              "description": "Beta-2-microglobulin",
+              "uniprot_ac": "P61769"
+            }
+          ]
+        },
+        "ligand_chains": [
+          {
+            "count": 2,
+            "ligands": [
+              {
+                "description": "CADMIUM ION",
+                "hetid": "CD"
+              }
+            ]
+          },
+          {
+            "count": 1,
+            "ligands": [
+              {
+                "description": "SODIUM ION",
+                "hetid": "NA"
+              }
+            ]
+          },
+          {
+            "count": 1,
+            "ligands": [
+              {
+                "description": "ACETATE ION",
+                "hetid": "ACT"
+              }
+            ]
+          }
+        ],
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "X-RAY DIFFRACTION",
+        "oligo-state": "heteromer",
+        "provider": "PDB",
+        "template": "7kgt",
+        "to": 228
+      },
+      {
+        "chains": [
+          {
+            "id": "A",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "ASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRA---------------PRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTR------AIVLQLPQGTTLPKGFYA",
+                  "description": "Nucleoprotein",
+                  "from": 5,
+                  "to": 128
+                },
+                "uniprot": {
+                  "aligned_sequence": "ASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYA",
+                  "from": 50,
+                  "to": 173
+                }
+              }
+            ]
+          },
+          {
+            "id": "B",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "NTASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATR---------KDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYA",
+                  "description": "Nucleoprotein",
+                  "from": 3,
+                  "to": 128
+                },
+                "uniprot": {
+                  "aligned_sequence": "NTASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYA",
+                  "from": 48,
+                  "to": 173
+                }
+              }
+            ]
+          },
+          {
+            "id": "C",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "ASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGG----KDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYA",
+                  "description": "Nucleoprotein",
+                  "from": 5,
+                  "to": 128
+                },
+                "uniprot": {
+                  "aligned_sequence": "ASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYA",
+                  "from": 50,
+                  "to": 173
+                }
+              }
+            ]
+          },
+          {
+            "id": "D",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "TASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATR----------DLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYA",
+                  "description": "Nucleoprotein",
+                  "from": 4,
+                  "to": 128
+                },
+                "uniprot": {
+                  "aligned_sequence": "TASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYA",
+                  "from": 49,
+                  "to": 173
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=48-173&template=6wkp&provider=pdb",
+        "coverage": 0.30071599045346065,
+        "created_date": "2020-04-29",
+        "from": 48,
+        "in_complex_with": {},
+        "ligand_chains": [
+          {
+            "count": 4,
+            "ligands": [
+              {
+                "description": "ZINC ION",
+                "hetid": "ZN"
+              }
+            ]
+          },
+          {
+            "count": 2,
+            "ligands": [
+              {
+                "description": "2-(N-MORPHOLINO)-ETHANESULFONIC ACID",
+                "hetid": "MES"
+              }
+            ]
+          }
+        ],
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "X-RAY DIFFRACTION",
+        "oligo-state": "homo-4-mer",
+        "provider": "PDB",
+        "template": "6wkp",
+        "to": 173
+      },
+      {
+        "chains": [
+          {
+            "id": "A",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "ASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYA",
+                  "description": "Nucleoprotein",
+                  "from": 5,
+                  "to": 128
+                },
+                "uniprot": {
+                  "aligned_sequence": "ASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYA",
+                  "from": 50,
+                  "to": 173
+                }
+              }
+            ]
+          },
+          {
+            "id": "B",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "TASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYA",
+                  "description": "Nucleoprotein",
+                  "from": 4,
+                  "to": 128
+                },
+                "uniprot": {
+                  "aligned_sequence": "TASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYA",
+                  "from": 49,
+                  "to": 173
+                }
+              }
+            ]
+          },
+          {
+            "id": "C",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "TASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYA",
+                  "description": "Nucleoprotein",
+                  "from": 4,
+                  "to": 128
+                },
+                "uniprot": {
+                  "aligned_sequence": "TASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYA",
+                  "from": 49,
+                  "to": 173
+                }
+              }
+            ]
+          },
+          {
+            "id": "D",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "TASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYA",
+                  "description": "Nucleoprotein",
+                  "from": 4,
+                  "to": 128
+                },
+                "uniprot": {
+                  "aligned_sequence": "TASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYA",
+                  "from": 49,
+                  "to": 173
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=49-173&template=6vyo&provider=pdb",
+        "coverage": 0.29832935560859186,
+        "created_date": "2020-03-11",
+        "from": 49,
+        "in_complex_with": {},
+        "ligand_chains": [
+          {
+            "count": 4,
+            "ligands": [
+              {
+                "description": "2-(N-MORPHOLINO)-ETHANESULFONIC ACID",
+                "hetid": "MES"
+              }
+            ]
+          },
+          {
+            "count": 4,
+            "ligands": [
+              {
+                "description": "CHLORIDE ION",
+                "hetid": "CL"
+              }
+            ]
+          },
+          {
+            "count": 4,
+            "ligands": [
+              {
+                "description": "ZINC ION",
+                "hetid": "ZN"
+              }
+            ]
+          },
+          {
+            "count": 4,
+            "ligands": [
+              {
+                "description": "GLYCEROL",
+                "hetid": "GOL"
+              }
+            ]
+          }
+        ],
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "X-RAY DIFFRACTION",
+        "oligo-state": "homo-4-mer",
+        "provider": "PDB",
+        "template": "6vyo",
+        "to": 173
+      },
+      {
+        "chains": [
+          {
+            "id": "A",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "TKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "description": "Nucleoprotein",
+                  "from": 18,
+                  "to": 135
+                },
+                "uniprot": {
+                  "aligned_sequence": "TKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "from": 247,
+                  "to": 364
+                }
+              }
+            ]
+          },
+          {
+            "id": "B",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "TKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "description": "Nucleoprotein",
+                  "from": 18,
+                  "to": 135
+                },
+                "uniprot": {
+                  "aligned_sequence": "TKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "from": 247,
+                  "to": 364
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=247-364&template=6zco&provider=pdb",
+        "coverage": 0.28162291169451076,
+        "created_date": "2020-07-01",
+        "from": 247,
+        "in_complex_with": {},
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "X-RAY DIFFRACTION",
+        "oligo-state": "homo-2-mer",
+        "provider": "PDB",
+        "template": "6zco",
+        "to": 364
+      },
+      {
+        "chains": [
+          {
+            "id": "A",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "KSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "description": "Nucleoprotein",
+                  "from": 20,
+                  "to": 135
+                },
+                "uniprot": {
+                  "aligned_sequence": "KSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "from": 249,
+                  "to": 364
+                }
+              }
+            ]
+          },
+          {
+            "id": "B",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "KSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "description": "Nucleoprotein",
+                  "from": 20,
+                  "to": 135
+                },
+                "uniprot": {
+                  "aligned_sequence": "KSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "from": 249,
+                  "to": 364
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=249-364&template=6yun&provider=pdb",
+        "coverage": 0.27684964200477324,
+        "created_date": "2020-05-20",
+        "from": 249,
+        "in_complex_with": {},
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "X-RAY DIFFRACTION",
+        "oligo-state": "homo-2-mer",
+        "provider": "PDB",
+        "template": "6yun",
+        "to": 364
+      },
+      {
+        "chains": [
+          {
+            "id": "A",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "KPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "description": "Nucleoprotein",
+                  "from": 8,
+                  "to": 115
+                },
+                "uniprot": {
+                  "aligned_sequence": "KPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "from": 257,
+                  "to": 364
+                }
+              }
+            ]
+          },
+          {
+            "id": "B",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "SAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "description": "Nucleoprotein",
+                  "from": 1,
+                  "to": 115
+                },
+                "uniprot": {
+                  "aligned_sequence": "SAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "from": 250,
+                  "to": 364
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=250-364&template=7de1&provider=pdb",
+        "coverage": 0.2744630071599045,
+        "created_date": "2021-01-27",
+        "from": 250,
+        "in_complex_with": {},
+        "ligand_chains": [
+          {
+            "count": 3,
+            "ligands": [
+              {
+                "description": "DI(HYDROXYETHYL)ETHER",
+                "hetid": "PEG"
+              }
+            ]
+          }
+        ],
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "X-RAY DIFFRACTION",
+        "oligo-state": "homo-2-mer",
+        "provider": "PDB",
+        "template": "7de1",
+        "to": 364
+      },
+      {
+        "chains": [
+          {
+            "id": "A",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "AAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "description": "Nucleoprotein",
+                  "from": 24,
+                  "to": 137
+                },
+                "uniprot": {
+                  "aligned_sequence": "AAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "from": 251,
+                  "to": 364
+                }
+              }
+            ]
+          },
+          {
+            "id": "B",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "AAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "description": "Nucleoprotein",
+                  "from": 24,
+                  "to": 137
+                },
+                "uniprot": {
+                  "aligned_sequence": "AAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "from": 251,
+                  "to": 364
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=251-364&template=6wzq&provider=pdb",
+        "coverage": 0.2720763723150358,
+        "created_date": "2020-05-27",
+        "from": 251,
+        "in_complex_with": {},
+        "ligand_chains": [
+          {
+            "count": 3,
+            "ligands": [
+              {
+                "description": "SULFATE ION",
+                "hetid": "SO4"
+              }
+            ]
+          }
+        ],
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "X-RAY DIFFRACTION",
+        "oligo-state": "homo-2-mer",
+        "provider": "PDB",
+        "template": "6wzq",
+        "to": 364
+      },
+      {
+        "chains": [
+          {
+            "id": "A",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "KKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "description": "Nucleoprotein",
+                  "from": 12,
+                  "to": 120
+                },
+                "uniprot": {
+                  "aligned_sequence": "KKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "from": 256,
+                  "to": 364
+                }
+              }
+            ]
+          },
+          {
+            "id": "B",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "AEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "description": "Nucleoprotein",
+                  "from": 8,
+                  "to": 120
+                },
+                "uniprot": {
+                  "aligned_sequence": "AEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "from": 252,
+                  "to": 364
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=252-364&template=7c22&provider=pdb",
+        "coverage": 0.26968973747016706,
+        "created_date": "2020-05-20",
+        "from": 252,
+        "in_complex_with": {},
+        "ligand_chains": [
+          {
+            "count": 1,
+            "ligands": [
+              {
+                "description": "ACETATE ION",
+                "hetid": "ACT"
+              }
+            ]
+          },
+          {
+            "count": 1,
+            "ligands": [
+              {
+                "description": "DI(HYDROXYETHYL)ETHER",
+                "hetid": "PEG"
+              }
+            ]
+          }
+        ],
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "X-RAY DIFFRACTION",
+        "oligo-state": "homo-2-mer",
+        "provider": "PDB",
+        "template": "7c22",
+        "to": 364
+      },
+      {
+        "chains": [
+          {
+            "id": "A",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "KPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "description": "Nucleoprotein",
+                  "from": 14,
+                  "to": 121
+                },
+                "uniprot": {
+                  "aligned_sequence": "KPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "from": 257,
+                  "to": 364
+                }
+              }
+            ]
+          },
+          {
+            "id": "B",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "ASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "description": "Nucleoprotein",
+                  "from": 11,
+                  "to": 121
+                },
+                "uniprot": {
+                  "aligned_sequence": "ASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "from": 254,
+                  "to": 364
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=254-364&template=6wzo&provider=pdb",
+        "coverage": 0.2649164677804296,
+        "created_date": "2020-05-27",
+        "from": 254,
+        "in_complex_with": {},
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "X-RAY DIFFRACTION",
+        "oligo-state": "homo-2-mer",
+        "provider": "PDB",
+        "template": "6wzo",
+        "to": 364
+      },
+      {
+        "chains": [
+          {
+            "id": "A",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "SKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "description": "Nucleoprotein",
+                  "from": 7,
+                  "to": 116
+                },
+                "uniprot": {
+                  "aligned_sequence": "SKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "from": 255,
+                  "to": 364
+                }
+              }
+            ]
+          },
+          {
+            "id": "B",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "SKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "description": "Nucleoprotein",
+                  "from": 7,
+                  "to": 116
+                },
+                "uniprot": {
+                  "aligned_sequence": "SKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "from": 255,
+                  "to": 364
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=255-364&template=7ce0&provider=pdb",
+        "coverage": 0.26252983293556087,
+        "created_date": "2020-09-02",
+        "from": 255,
+        "in_complex_with": {},
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "X-RAY DIFFRACTION",
+        "oligo-state": "homo-2-mer",
+        "provider": "PDB",
+        "template": "7ce0",
+        "to": 364
+      },
+      {
+        "chains": [
+          {
+            "id": "A",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "KPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "description": "Nucleoprotein",
+                  "from": 14,
+                  "to": 121
+                },
+                "uniprot": {
+                  "aligned_sequence": "KPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "from": 257,
+                  "to": 364
+                }
+              }
+            ]
+          },
+          {
+            "id": "B",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "KPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "description": "Nucleoprotein",
+                  "from": 14,
+                  "to": 121
+                },
+                "uniprot": {
+                  "aligned_sequence": "KPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "from": 257,
+                  "to": 364
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=257-364&template=6wji&provider=pdb",
+        "coverage": 0.2577565632458234,
+        "created_date": "2020-04-22",
+        "from": 257,
+        "in_complex_with": {},
+        "ligand_chains": [
+          {
+            "count": 2,
+            "ligands": [
+              {
+                "description": "CHLORIDE ION",
+                "hetid": "CL"
+              }
+            ]
+          }
+        ],
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "X-RAY DIFFRACTION",
+        "oligo-state": "homo-2-mer",
+        "provider": "PDB",
+        "template": "6wji",
+        "to": 364
+      },
+      {
+        "chains": [
+          {
+            "id": "A",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "GLPNNTASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS",
+                  "description": "Nucleoprotein",
+                  "from": 4,
+                  "to": 140
+                },
+                "uniprot": {
+                  "aligned_sequence": "GLPNNTASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS",
+                  "from": 44,
+                  "to": 180
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=44-180&template=6yi3&provider=pdb",
+        "coverage": 0.3269689737470167,
+        "created_date": "2020-04-08",
+        "from": 44,
+        "in_complex_with": {},
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "SOLUTION NMR",
+        "oligo-state": "monomer",
+        "provider": "PDB",
+        "template": "6yi3",
+        "to": 180
+      },
+      {
+        "chains": [
+          {
+            "id": "A",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "GLPNNTASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS",
+                  "description": "Nucleoprotein",
+                  "from": 4,
+                  "to": 140
+                },
+                "uniprot": {
+                  "aligned_sequence": "GLPNNTASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS",
+                  "from": 44,
+                  "to": 180
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=44-180&template=7act&provider=pdb",
+        "coverage": 0.3269689737470167,
+        "created_date": "2020-10-28",
+        "from": 44,
+        "in_complex_with": {},
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "SOLUTION NMR",
+        "oligo-state": "monomer",
+        "provider": "PDB",
+        "template": "7act",
+        "to": 180
+      },
+      {
+        "chains": [
+          {
+            "id": "A",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "GLPNNTASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS",
+                  "description": "Nucleoprotein",
+                  "from": 4,
+                  "to": 140
+                },
+                "uniprot": {
+                  "aligned_sequence": "GLPNNTASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS",
+                  "from": 44,
+                  "to": 180
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=44-180&template=7acs&provider=pdb",
+        "coverage": 0.3269689737470167,
+        "created_date": "2020-11-04",
+        "from": 44,
+        "in_complex_with": {},
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "SOLUTION NMR",
+        "oligo-state": "monomer",
+        "provider": "PDB",
+        "template": "7acs",
+        "to": 180
+      },
+      {
+        "chains": [
+          {
+            "id": "A",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "NNTASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE",
+                  "description": "Nucleoprotein",
+                  "from": 10,
+                  "to": 137
+                },
+                "uniprot": {
+                  "aligned_sequence": "NNTASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE",
+                  "from": 47,
+                  "to": 174
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=47-174&template=7cdz&provider=pdb",
+        "coverage": 0.3054892601431981,
+        "created_date": "2020-09-02",
+        "from": 47,
+        "in_complex_with": {},
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "X-RAY DIFFRACTION",
+        "oligo-state": "monomer",
+        "provider": "PDB",
+        "template": "7cdz",
+        "to": 174
+      },
+      {
+        "chains": [
+          {
+            "id": "A",
+            "segments": [
+              {
+                "pdb": {
+                  "aligned_sequence": "NTASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIR-----MKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYA",
+                  "description": "Nucleoprotein",
+                  "from": 10,
+                  "to": 135
+                },
+                "uniprot": {
+                  "aligned_sequence": "NTASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYA",
+                  "from": 48,
+                  "to": 173
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=48-173&template=6m3m&provider=pdb",
+        "coverage": 0.30071599045346065,
+        "created_date": "2020-03-18",
+        "from": 48,
+        "in_complex_with": {},
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "X-RAY DIFFRACTION",
+        "oligo-state": "monomer",
+        "provider": "PDB",
+        "template": "6m3m",
+        "to": 173
+      },
+      {
+        "chains": [
+          {
+            "id": "A",
+            "segments": [
+              {
+                "smtl": {
+                  "aligned_sequence": "NTASWFTALTQHGKEELRFPRGQGVPINTNSGPDDQIGYYRRATRRVRGGDGKMKELSPRWYFYYLGTGPEASLPYGANKEGIVWVATEGALNTPKDHIGTRNPNNNAATVLQLPQGTTLPKGFYA",
+                  "description": "Nucleocapsid protein",
+                  "from": 13,
+                  "to": 138
+                },
+                "uniprot": {
+                  "aligned_sequence": "NTASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYA",
+                  "from": 48,
+                  "to": 173
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=48-173&template=2ofz.1.A&provider=swissmodel",
+        "coverage": 0.30071599045346065,
+        "created_date": "2021-03-12T07:51:52.623000+00:00",
+        "found_by": "HHblits",
+        "from": 48,
+        "gmqe": 0.160383395,
+        "identity": 92.0634918213,
+        "in_complex_with": {},
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "HOMOLOGY MODELLING",
+        "oligo-state": "monomer",
+        "provider": "SWISSMODEL",
+        "qmean": {
+          "acc_agreement_norm_score": 0.6666666667000001,
+          "acc_agreement_z_score": 0.6161278692000001,
+          "avg_local_score": 0.7430511403000001,
+          "avg_local_score_error": 0.073,
+          "cbeta_norm_score": -0.0104530432,
+          "cbeta_z_score": -0.5827149908,
+          "interaction_norm_score": -0.016676624,
+          "interaction_z_score": -1.3377772481,
+          "packing_norm_score": -0.2169137949,
+          "packing_z_score": -1.8855093627000001,
+          "qmean4_norm_score": 0.8403341741,
+          "qmean4_z_score": 1.0576442383,
+          "qmean6_norm_score": 0.8381178046000001,
+          "qmean6_z_score": 1.0540355138,
+          "ss_agreement_norm_score": 0.6398367587,
+          "ss_agreement_z_score": -0.3108592039,
+          "torsion_norm_score": -0.6462162477,
+          "torsion_z_score": 2.0498978429
+        },
+        "similarity": 0.6111107469,
+        "template": "2ofz.1.A",
+        "to": 173
+      },
+      {
+        "chains": [
+          {
+            "id": "A",
+            "segments": [
+              {
+                "smtl": {
+                  "aligned_sequence": "PKPRAAPNNTVSWYTGLTQHGKVPLTFPPGQGVPLNANSTPAQNAGYWRRQDRKINTGNG-IKQLAPRWYFYYTGTGPEAALPFRAVKDGIVWVHEDGATDAPST-FGTRNPNNDSAIVTQFAPGTKLPKNFHIE",
+                  "description": "N PROTEIN",
+                  "from": 31,
+                  "to": 163
+                },
+                "uniprot": {
+                  "aligned_sequence": "RRPQGLPNNTASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE",
+                  "from": 40,
+                  "to": 174
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=40-174&template=4ud1.1.A&provider=swissmodel",
+        "coverage": 0.3221957040572792,
+        "created_date": "2021-03-12T07:51:52.568000+00:00",
+        "found_by": "BLAST",
+        "from": 40,
+        "gmqe": 0.17753447120000002,
+        "identity": 55.4140129089,
+        "in_complex_with": {},
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "HOMOLOGY MODELLING",
+        "oligo-state": "monomer",
+        "provider": "SWISSMODEL",
+        "qmean": {
+          "acc_agreement_norm_score": 0.6592592593000001,
+          "acc_agreement_z_score": 0.5063544732,
+          "avg_local_score": 0.6847185444,
+          "avg_local_score_error": 0.07100000000000001,
+          "cbeta_norm_score": -0.006465744000000001,
+          "cbeta_z_score": -1.2743605299,
+          "interaction_norm_score": -0.0117810608,
+          "interaction_z_score": -2.0705332431,
+          "packing_norm_score": -0.2290981923,
+          "packing_z_score": -1.8344222322000001,
+          "qmean4_norm_score": 0.7920909540000001,
+          "qmean4_z_score": 0.1904707359,
+          "qmean6_norm_score": 0.7888993207,
+          "qmean6_z_score": 0.18057199910000002,
+          "ss_agreement_norm_score": 0.6076343414,
+          "ss_agreement_z_score": -0.5875798705,
+          "torsion_norm_score": -0.5223763802,
+          "torsion_z_score": 1.2271226509
+        },
+        "similarity": 0.47388520840000004,
+        "template": "4ud1.1.A",
+        "to": 174
+      },
+      {
+        "chains": [
+          {
+            "id": "B",
+            "segments": [
+              {
+                "smtl": {
+                  "aligned_sequence": "SAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "description": "Nucleoprotein",
+                  "from": 23,
+                  "to": 137
+                },
+                "uniprot": {
+                  "aligned_sequence": "SAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFP",
+                  "from": 250,
+                  "to": 364
+                }
+              }
+            ]
+          }
+        ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC9.pdb?range=250-364&template=6wzq.2.B&provider=swissmodel",
+        "coverage": 0.2744630071599045,
+        "created_date": "2021-03-12T07:51:52.600000+00:00",
+        "found_by": "HHblits",
+        "from": 250,
+        "gmqe": 0.14181386540000002,
+        "identity": 100.0,
+        "in_complex_with": {},
+        "md5": "b100d0849c3e01fc6c75ead0e916ce0f",
+        "method": "HOMOLOGY MODELLING",
+        "oligo-state": "monomer",
+        "provider": "SWISSMODEL",
+        "qmean": {
+          "acc_agreement_norm_score": 0.5130434783,
+          "acc_agreement_z_score": -1.8155619448,
+          "avg_local_score": 0.5968290668,
+          "avg_local_score_error": 0.078,
+          "cbeta_norm_score": -0.0112122227,
+          "cbeta_z_score": -0.4651573015,
+          "interaction_norm_score": -0.0228696865,
+          "interaction_z_score": -0.4594183365,
+          "packing_norm_score": -0.23734267690000002,
+          "packing_z_score": -1.4285768859,
+          "qmean4_norm_score": 0.7818808854,
+          "qmean4_z_score": -0.0829465174,
+          "qmean6_norm_score": 0.7338180357,
+          "qmean6_z_score": -0.8497031386,
+          "ss_agreement_norm_score": 0.4371606437,
+          "ss_agreement_z_score": -1.3220163526,
+          "torsion_norm_score": -0.4474673314,
+          "torsion_z_score": 0.6552600144
+        },
+        "similarity": 0.6197738051,
+        "template": "6wzq.2.B",
+        "to": 364
+      }
+    ],
+    "uniprot_entries": [
+      {
+        "ac": "P0DTC9",
+        "id": "NCAP_SARS2"
+      }
+    ]
+  }
+}
