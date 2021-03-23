@@ -1,14 +1,5 @@
 {
-  "api_version": "2.0",
-  "query": {
-    "ac": "P0DTC8"
-  },
-  "query_date": "2021-03-15T23:27:37.904Z",
   "result": {
-    "crc64": "912AD9E147A64907",
-    "md5": "3a77ad9207d29beacfbf6f18b0da9e26",
-    "sequence": "MKFLVFLGIITTVAAFHQECSLQSCTQHQPYVVDDPCPIHFYSKWYIRVGARKSAPLIELCVDEAGSKSPIQYIDIGNYTVSCLPFTINCQEPKLGSLVVRCSFYEDFLEYHDVRVVLDFI",
-    "sequence_length": 121,
     "structures": [
       {
         "chains": [
@@ -17,13 +8,10 @@
             "segments": [
               {
                 "pdb": {
-                  "aligned_sequence": "QECSLQSCTQHQPYVVDDPCPIHFYSKWYIRVGARKSAPLIELCVDEAGSKSPIQYIDIGNYTVSCLPFTINCQEPKLGSLVVRCSFYEDFLEYHDVRVVLDFI",
-                  "description": "ORF8 protein",
                   "from": 1,
                   "to": 104
                 },
                 "uniprot": {
-                  "aligned_sequence": "QECSLQSCTQHQPYVVDDPCPIHFYSKWYIRVGARKSAPLIELCVDEAGSKSPIQYIDIGNYTVSCLPFTINCQEPKLGSLVVRCSFYEDFLEYHDVRVVLDFI",
                   "from": 18,
                   "to": 121
                 }
@@ -35,13 +23,10 @@
             "segments": [
               {
                 "pdb": {
-                  "aligned_sequence": "QECSLQSCTQHQPYVVDDPCPIHFYSKWYIRVGARKSAPLIELCV----------------YTVSCLPFTINCQEPKLGSLVVRCSFYEDFLEYHDVRVVLDFI",
-                  "description": "ORF8 protein",
                   "from": 1,
                   "to": 104
                 },
                 "uniprot": {
-                  "aligned_sequence": "QECSLQSCTQHQPYVVDDPCPIHFYSKWYIRVGARKSAPLIELCVDEAGSKSPIQYIDIGNYTVSCLPFTINCQEPKLGSLVVRCSFYEDFLEYHDVRVVLDFI",
                   "from": 18,
                   "to": 121
                 }
@@ -49,27 +34,17 @@
             ]
           }
         ],
-        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC8.pdb?range=18-121&template=7jx6&provider=pdb",
-        "coverage": 0.859504132231405,
-        "created_date": "2020-09-23",
         "from": 18,
-        "in_complex_with": {},
         "ligand_chains": [
           {
             "count": 4,
             "ligands": [
               {
-                "description": "SODIUM ION",
                 "hetid": "NA"
               }
             ]
           }
         ],
-        "md5": "3a77ad9207d29beacfbf6f18b0da9e26",
-        "method": "X-RAY DIFFRACTION",
-        "oligo-state": "homo-2-mer",
-        "provider": "PDB",
-        "template": "7jx6",
         "to": 121
       },
       {
@@ -79,13 +54,10 @@
             "segments": [
               {
                 "pdb": {
-                  "aligned_sequence": "QECSLQSCTQHQPYVVDDPCPIHFYSKWYIRVGARKSAPLIELCVDE--SKSPIQYIDIGNYTVSCLPFTINCQEPKLGSLVVRCSFYEDFLEYHDVRVVLDFI",
-                  "description": "ORF8 protein",
                   "from": 4,
                   "to": 107
                 },
                 "uniprot": {
-                  "aligned_sequence": "QECSLQSCTQHQPYVVDDPCPIHFYSKWYIRVGARKSAPLIELCVDEAGSKSPIQYIDIGNYTVSCLPFTINCQEPKLGSLVVRCSFYEDFLEYHDVRVVLDFI",
                   "from": 18,
                   "to": 121
                 }
@@ -97,13 +69,10 @@
             "segments": [
               {
                 "pdb": {
-                  "aligned_sequence": "QECSLQSCTQHQPYVVDDPCPIHFYSKWYIRVGARKSAPLIELCVDEA---SPIQYIDIGNYTVSCLPFTINCQEPKLGSLVVRCSFYEDFLEYHDVRVVLDFI",
-                  "description": "ORF8 protein",
                   "from": 4,
                   "to": 107
                 },
                 "uniprot": {
-                  "aligned_sequence": "QECSLQSCTQHQPYVVDDPCPIHFYSKWYIRVGARKSAPLIELCVDEAGSKSPIQYIDIGNYTVSCLPFTINCQEPKLGSLVVRCSFYEDFLEYHDVRVVLDFI",
                   "from": 18,
                   "to": 121
                 }
@@ -111,27 +80,17 @@
             ]
           }
         ],
-        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC8.pdb?range=18-121&template=7jtl&provider=pdb",
-        "coverage": 0.859504132231405,
-        "created_date": "2020-08-26",
         "from": 18,
-        "in_complex_with": {},
         "ligand_chains": [
           {
             "count": 1,
             "ligands": [
               {
-                "description": "SODIUM ION",
                 "hetid": "NA"
               }
             ]
           }
         ],
-        "md5": "3a77ad9207d29beacfbf6f18b0da9e26",
-        "method": "X-RAY DIFFRACTION",
-        "oligo-state": "homo-2-mer",
-        "provider": "PDB",
-        "template": "7jtl",
         "to": 121
       },
       {
@@ -141,13 +100,10 @@
             "segments": [
               {
                 "smtl": {
-                  "aligned_sequence": "QECSLQSCTQHQPYVVDDPCPIHFYSKWYIRVGARKSAPLIELCVDEAGSKSPIQYIDIGNYTVSCLPFTINCQEPKLGSLVVRCSFYEDFLEYHDVRVVLDFI",
-                  "description": "ORF8 protein",
                   "from": 4,
                   "to": 107
                 },
                 "uniprot": {
-                  "aligned_sequence": "QECSLQSCTQHQPYVVDDPCPIHFYSKWYIRVGARKSAPLIELCVDEAGSKSPIQYIDIGNYTVSCLPFTINCQEPKLGSLVVRCSFYEDFLEYHDVRVVLDFI",
                   "from": 18,
                   "to": 121
                 }
@@ -159,13 +115,10 @@
             "segments": [
               {
                 "smtl": {
-                  "aligned_sequence": "QECSLQSCTQHQPYVVDDPCPIHFYSKWYIRVGARKSAPLIELCVDEAGSKSPIQYIDIGNYTVSCLPFTINCQEPKLGSLVVRCSFYEDFLEYHDVRVVLDFI",
-                  "description": "ORF8 protein",
                   "from": 4,
                   "to": 107
                 },
                 "uniprot": {
-                  "aligned_sequence": "QECSLQSCTQHQPYVVDDPCPIHFYSKWYIRVGARKSAPLIELCVDEAGSKSPIQYIDIGNYTVSCLPFTINCQEPKLGSLVVRCSFYEDFLEYHDVRVVLDFI",
                   "from": 18,
                   "to": 121
                 }
@@ -173,40 +126,7 @@
             ]
           }
         ],
-        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC8.pdb?range=18-121&template=7jtl.1.A&provider=swissmodel",
-        "coverage": 0.859504132231405,
-        "created_date": "2021-03-12T07:51:45.001000+00:00",
-        "found_by": "BLAST",
         "from": 18,
-        "gmqe": 0.6566424566,
-        "identity": 100.0,
-        "in_complex_with": {},
-        "md5": "3a77ad9207d29beacfbf6f18b0da9e26",
-        "method": "HOMOLOGY MODELLING",
-        "oligo-state": "homo-2-mer",
-        "provider": "SWISSMODEL",
-        "qmean": {
-          "acc_agreement_norm_score": 0.6009615385,
-          "acc_agreement_z_score": -0.7072734165,
-          "avg_local_score": 0.7961547751,
-          "avg_local_score_error": 0.059000000000000004,
-          "cbeta_norm_score": -0.0241606794,
-          "cbeta_z_score": 2.4140312338,
-          "interaction_norm_score": -0.0185871572,
-          "interaction_z_score": -1.1163810353999999,
-          "packing_norm_score": -0.2145534608,
-          "packing_z_score": -2.3865043143999998,
-          "qmean4_norm_score": 0.7768985108,
-          "qmean4_z_score": -0.07398523530000001,
-          "qmean6_norm_score": 0.7485457756,
-          "qmean6_z_score": -0.7047295985,
-          "ss_agreement_norm_score": 0.40879171070000003,
-          "ss_agreement_z_score": -1.880932186,
-          "torsion_norm_score": -0.37823148560000003,
-          "torsion_z_score": 0.39337923680000003
-        },
-        "similarity": 0.6326920986,
-        "template": "7jtl.1.A",
         "to": 121
       },
       {
@@ -216,13 +136,10 @@
             "segments": [
               {
                 "smtl": {
-                  "aligned_sequence": "QECSLQSCTQHQPYVVDDPCPIHFYSKWYIRVGARKSAPLIELCVDEAGSKSPIQYIDIGNYTVSCLPFTINCQEPKLGSLVVRCSFYEDFLEYHDVRVVLDFI",
-                  "description": "ORF8 protein",
                   "from": 1,
                   "to": 104
                 },
                 "uniprot": {
-                  "aligned_sequence": "QECSLQSCTQHQPYVVDDPCPIHFYSKWYIRVGARKSAPLIELCVDEAGSKSPIQYIDIGNYTVSCLPFTINCQEPKLGSLVVRCSFYEDFLEYHDVRVVLDFI",
                   "from": 18,
                   "to": 121
                 }
@@ -234,13 +151,10 @@
             "segments": [
               {
                 "smtl": {
-                  "aligned_sequence": "QECSLQSCTQHQPYVVDDPCPIHFYSKWYIRVGARKSAPLIELCVDEAGSKSPIQYIDIGNYTVSCLPFTINCQEPKLGSLVVRCSFYEDFLEYHDVRVVLDFI",
-                  "description": "ORF8 protein",
                   "from": 1,
                   "to": 104
                 },
                 "uniprot": {
-                  "aligned_sequence": "QECSLQSCTQHQPYVVDDPCPIHFYSKWYIRVGARKSAPLIELCVDEAGSKSPIQYIDIGNYTVSCLPFTINCQEPKLGSLVVRCSFYEDFLEYHDVRVVLDFI",
                   "from": 18,
                   "to": 121
                 }
@@ -248,58 +162,18 @@
             ]
           }
         ],
-        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC8.pdb?range=18-121&template=7jx6.1.A&provider=swissmodel",
-        "coverage": 0.859504132231405,
-        "created_date": "2021-03-12T07:51:44.972000+00:00",
-        "found_by": "HHblits",
         "from": 18,
-        "gmqe": 0.6840512390000001,
-        "identity": 100.0,
-        "in_complex_with": {},
         "ligand_chains": [
           {
             "count": 2,
             "ligands": [
               {
-                "description": "SODIUM ION",
                 "hetid": "NA"
               }
             ]
           }
         ],
-        "md5": "3a77ad9207d29beacfbf6f18b0da9e26",
-        "method": "HOMOLOGY MODELLING",
-        "oligo-state": "homo-2-mer",
-        "provider": "SWISSMODEL",
-        "qmean": {
-          "acc_agreement_norm_score": 0.6346153846,
-          "acc_agreement_z_score": -0.40190207580000004,
-          "avg_local_score": 0.817473858,
-          "avg_local_score_error": 0.059000000000000004,
-          "cbeta_norm_score": -0.0200919749,
-          "cbeta_z_score": 1.4794227784,
-          "interaction_norm_score": -0.0161172809,
-          "interaction_z_score": -1.5475233777000001,
-          "packing_norm_score": -0.26707088630000003,
-          "packing_z_score": -1.6033145174999999,
-          "qmean4_norm_score": 0.7495671586,
-          "qmean4_z_score": -0.7515165711,
-          "qmean6_norm_score": 0.7206388238,
-          "qmean6_z_score": -1.2965514184,
-          "ss_agreement_norm_score": 0.365116392,
-          "ss_agreement_z_score": -2.2055976992,
-          "torsion_norm_score": -0.2872492333,
-          "torsion_z_score": -0.3864837507
-        },
-        "similarity": 0.6326920986,
-        "template": "7jx6.1.A",
         "to": 121
-      }
-    ],
-    "uniprot_entries": [
-      {
-        "ac": "P0DTC8",
-        "id": "NS8_SARS2"
       }
     ]
   }

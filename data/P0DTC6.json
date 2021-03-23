@@ -1,14 +1,5 @@
 {
-  "api_version": "2.0",
-  "query": {
-    "ac": "P0DTC6"
-  },
-  "query_date": "2021-03-15T23:27:26.391Z",
   "result": {
-    "crc64": "B21BD303F59A1D0A",
-    "md5": "90b50e0be9abd893bd32b163d6933f0c",
-    "sequence": "MFHLVDFQVTIAEILLIIMRTFKVSIWNLDYIINLIIKNLSKSLTENKYSQLDEEQPMEID",
-    "sequence_length": 61,
     "structures": [
       {
         "chains": [
@@ -17,13 +8,10 @@
             "segments": [
               {
                 "smtl": {
-                  "aligned_sequence": "KDFKIRLQYFARGLQVYIRQLRLALQGKTGEALKTEE",
-                  "description": "Apoptosis inhibitor 5",
                   "from": 391,
                   "to": 427
                 },
                 "uniprot": {
-                  "aligned_sequence": "RTFKVSIWNLDYIINLIIKNLSKSLTENKYSQLDEEQ",
                   "from": 20,
                   "to": 56
                 }
@@ -31,39 +19,7 @@
             ]
           }
         ],
-        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC6.pdb?range=20-56&template=3v6a.1.A&provider=swissmodel",
-        "coverage": 0.6065573770491803,
-        "created_date": "2020-04-04T08:00:52.646000+00:00",
         "from": 20,
-        "gmqe": 0.3889999986,
-        "identity": 18.9189186096,
-        "in_complex_with": {},
-        "md5": "90b50e0be9abd893bd32b163d6933f0c",
-        "method": "HOMOLOGY MODELLING",
-        "oligo-state": "monomer",
-        "provider": "SWISSMODEL",
-        "qmean": {
-          "acc_agreement_norm_score": 0.5135135135000001,
-          "acc_agreement_z_score": -1.6018087209,
-          "avg_local_score": 0.6129318849000001,
-          "avg_local_score_error": 0.115,
-          "cbeta_norm_score": -0.0111959108,
-          "cbeta_z_score": -0.9044662587000001,
-          "interaction_norm_score": -0.056387890700000005,
-          "interaction_z_score": 0.6667171580000001,
-          "packing_norm_score": -0.42525774110000003,
-          "packing_z_score": 0.3825183554,
-          "qmean4_norm_score": 0.6804752697,
-          "qmean4_z_score": -0.6845188360000001,
-          "qmean6_norm_score": 0.6597840955000001,
-          "qmean6_z_score": -0.6990103033,
-          "ss_agreement_norm_score": 0.6487887832,
-          "ss_agreement_z_score": 0.3994279905,
-          "torsion_norm_score": 0.0169160598,
-          "torsion_z_score": -0.9227269165
-        },
-        "similarity": 0.2954972386,
-        "template": "3v6a.1.A",
         "to": 56
       },
       {
@@ -73,13 +29,10 @@
             "segments": [
               {
                 "smtl": {
-                  "aligned_sequence": "GLFSWEIDADNGDILNSMNASLGNSAG",
-                  "description": "CHITINASE A",
                   "from": 512,
                   "to": 538
                 },
                 "uniprot": {
-                  "aligned_sequence": "KVSIWNLDYIINLIIKNLSKSLTENKY",
                   "from": 23,
                   "to": 49
                 }
@@ -87,39 +40,7 @@
             ]
           }
         ],
-        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC6.pdb?range=23-49&template=2wm0.1.A&provider=swissmodel",
-        "coverage": 0.4426229508196721,
-        "created_date": "2020-04-04T08:00:52.611000+00:00",
         "from": 23,
-        "gmqe": 0.1879999936,
-        "identity": 23.3333339691,
-        "in_complex_with": {},
-        "md5": "90b50e0be9abd893bd32b163d6933f0c",
-        "method": "HOMOLOGY MODELLING",
-        "oligo-state": "monomer",
-        "provider": "SWISSMODEL",
-        "qmean": {
-          "acc_agreement_norm_score": 0.5555555556,
-          "acc_agreement_z_score": -1.2478543206000001,
-          "avg_local_score": 0.2786335752,
-          "avg_local_score_error": 0.115,
-          "cbeta_norm_score": -0.0379630128,
-          "cbeta_z_score": 0.9096120568,
-          "interaction_norm_score": -0.0335254046,
-          "interaction_z_score": -0.1764350767,
-          "packing_norm_score": 0.22936618150000002,
-          "packing_z_score": -2.9205229914,
-          "qmean4_norm_score": 0.40494015510000003,
-          "qmean4_z_score": -3.0197938195,
-          "qmean6_norm_score": 0.31505608620000003,
-          "qmean6_z_score": -3.214759102,
-          "ss_agreement_norm_score": -0.7100702491,
-          "ss_agreement_z_score": -3.1929483209,
-          "torsion_norm_score": 0.5235166813000001,
-          "torsion_z_score": -2.9185482605
-        },
-        "similarity": 0.3199999928,
-        "template": "2wm0.1.A",
         "to": 49
       },
       {
@@ -129,13 +50,10 @@
             "segments": [
               {
                 "smtl": {
-                  "aligned_sequence": "LLRQVFTFGLSLVKLDIRQESERHTDVIDAITTHLGIGSYREWSEDKRQ",
-                  "description": "Phosphoenolpyruvate carboxylase",
                   "from": 439,
                   "to": 487
                 },
                 "uniprot": {
-                  "aligned_sequence": "LLIIMRTFKVSIWNLDYIINL-----IIKNLSKSLTENKYSQLDEEQPM",
                   "from": 15,
                   "to": 58
                 }
@@ -143,46 +61,8 @@
             ]
           }
         ],
-        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC6.pdb?range=15-58&template=5vyj.1.A&provider=swissmodel",
-        "coverage": 0.7213114754098361,
-        "created_date": "2020-04-04T08:00:52.679000+00:00",
         "from": 15,
-        "gmqe": 0.3519999981,
-        "identity": 25.0,
-        "in_complex_with": {},
-        "md5": "90b50e0be9abd893bd32b163d6933f0c",
-        "method": "HOMOLOGY MODELLING",
-        "oligo-state": "monomer",
-        "provider": "SWISSMODEL",
-        "qmean": {
-          "acc_agreement_norm_score": 0.43181818180000003,
-          "acc_agreement_z_score": -2.5577064476,
-          "avg_local_score": 0.3340934062,
-          "avg_local_score_error": 0.115,
-          "cbeta_norm_score": 0.0007264294,
-          "cbeta_z_score": -1.6479629006,
-          "interaction_norm_score": -0.0052332767,
-          "interaction_z_score": -1.6742795645,
-          "packing_norm_score": 0.1117931214,
-          "packing_z_score": -2.1667372387,
-          "qmean4_norm_score": 0.33103548580000003,
-          "qmean4_z_score": -3.5374705152,
-          "qmean6_norm_score": 0.2343106257,
-          "qmean6_z_score": -4.0711227391,
-          "ss_agreement_norm_score": -0.48575246440000003,
-          "ss_agreement_z_score": -3.8031651407,
-          "torsion_norm_score": 0.5712587031,
-          "torsion_z_score": -3.2166429686
-        },
-        "similarity": 0.3060657978,
-        "template": "5vyj.1.A",
         "to": 58
-      }
-    ],
-    "uniprot_entries": [
-      {
-        "ac": "P0DTC6",
-        "id": "NS6_SARS2"
       }
     ]
   }

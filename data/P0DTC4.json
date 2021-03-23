@@ -1,14 +1,5 @@
 {
-  "api_version": "2.0",
-  "query": {
-    "ac": "P0DTC4"
-  },
-  "query_date": "2021-03-15T23:27:14.856Z",
   "result": {
-    "crc64": "5C431BD2AA1B6B99",
-    "md5": "375e0f905c315e06a99c80b736c125d2",
-    "sequence": "MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYSRVKNLNSSRVPDLLV",
-    "sequence_length": 75,
     "structures": [
       {
         "chains": [
@@ -17,13 +8,10 @@
             "segments": [
               {
                 "pdb": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALR",
-                  "description": "Envelope small membrane protein",
                   "from": 1,
                   "to": 31
                 },
                 "uniprot": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALR",
                   "from": 8,
                   "to": 38
                 }
@@ -35,13 +23,10 @@
             "segments": [
               {
                 "pdb": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALR",
-                  "description": "Envelope small membrane protein",
                   "from": 1,
                   "to": 31
                 },
                 "uniprot": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALR",
                   "from": 8,
                   "to": 38
                 }
@@ -53,13 +38,10 @@
             "segments": [
               {
                 "pdb": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALR",
-                  "description": "Envelope small membrane protein",
                   "from": 1,
                   "to": 31
                 },
                 "uniprot": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALR",
                   "from": 8,
                   "to": 38
                 }
@@ -71,13 +53,10 @@
             "segments": [
               {
                 "pdb": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALR",
-                  "description": "Envelope small membrane protein",
                   "from": 1,
                   "to": 31
                 },
                 "uniprot": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALR",
                   "from": 8,
                   "to": 38
                 }
@@ -89,13 +68,10 @@
             "segments": [
               {
                 "pdb": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALR",
-                  "description": "Envelope small membrane protein",
                   "from": 1,
                   "to": 31
                 },
                 "uniprot": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALR",
                   "from": 8,
                   "to": 38
                 }
@@ -103,16 +79,7 @@
             ]
           }
         ],
-        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC4.pdb?range=8-38&template=7k3g&provider=pdb",
-        "coverage": 0.41333333333333333,
-        "created_date": "2020-09-30",
         "from": 8,
-        "in_complex_with": {},
-        "md5": "375e0f905c315e06a99c80b736c125d2",
-        "method": "SOLID-STATE NMR",
-        "oligo-state": "homo-5-mer",
-        "provider": "PDB",
-        "template": "7k3g",
         "to": 38
       },
       {
@@ -122,13 +89,10 @@
             "segments": [
               {
                 "smtl": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALR",
-                  "description": "Envelope small membrane protein",
                   "from": 1,
                   "to": 31
                 },
                 "uniprot": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALR",
                   "from": 8,
                   "to": 38
                 }
@@ -140,13 +104,10 @@
             "segments": [
               {
                 "smtl": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALR",
-                  "description": "Envelope small membrane protein",
                   "from": 1,
                   "to": 31
                 },
                 "uniprot": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALR",
                   "from": 8,
                   "to": 38
                 }
@@ -158,13 +119,10 @@
             "segments": [
               {
                 "smtl": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALR",
-                  "description": "Envelope small membrane protein",
                   "from": 1,
                   "to": 31
                 },
                 "uniprot": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALR",
                   "from": 8,
                   "to": 38
                 }
@@ -176,13 +134,10 @@
             "segments": [
               {
                 "smtl": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALR",
-                  "description": "Envelope small membrane protein",
                   "from": 1,
                   "to": 31
                 },
                 "uniprot": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALR",
                   "from": 8,
                   "to": 38
                 }
@@ -194,13 +149,10 @@
             "segments": [
               {
                 "smtl": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALR",
-                  "description": "Envelope small membrane protein",
                   "from": 1,
                   "to": 31
                 },
                 "uniprot": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALR",
                   "from": 8,
                   "to": 38
                 }
@@ -208,40 +160,7 @@
             ]
           }
         ],
-        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC4.pdb?range=8-38&template=7k3g.1.A&provider=swissmodel",
-        "coverage": 0.41333333333333333,
-        "created_date": "2021-03-12T07:51:09.858000+00:00",
-        "found_by": "HHblits",
         "from": 8,
-        "gmqe": 0.104961015,
-        "identity": 100.0,
-        "in_complex_with": {},
-        "md5": "375e0f905c315e06a99c80b736c125d2",
-        "method": "HOMOLOGY MODELLING",
-        "oligo-state": "homo-5-mer",
-        "provider": "SWISSMODEL",
-        "qmean": {
-          "acc_agreement_norm_score": 0.48387096770000004,
-          "acc_agreement_z_score": -1.8249729366,
-          "avg_local_score": 0.5504084779,
-          "avg_local_score_error": 0.066,
-          "cbeta_norm_score": 0.010126794100000001,
-          "cbeta_z_score": -4.4468061425,
-          "interaction_norm_score": 0.0018523094,
-          "interaction_z_score": -4.3910117519,
-          "packing_norm_score": -0.23740209450000002,
-          "packing_z_score": -1.9001928558999999,
-          "qmean4_norm_score": 0.5031603253,
-          "qmean4_z_score": -5.5394474178,
-          "qmean6_norm_score": 0.45381514640000004,
-          "qmean6_z_score": -6.3369711693,
-          "ss_agreement_norm_score": 0.2246684706,
-          "ss_agreement_z_score": -2.9830786909,
-          "torsion_norm_score": 0.23386298630000002,
-          "torsion_z_score": -4.0018247614
-        },
-        "similarity": 0.5677421093,
-        "template": "7k3g.1.A",
         "to": 38
       },
       {
@@ -251,13 +170,10 @@
             "segments": [
               {
                 "smtl": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALRLAAYAANIVNVSLVKPTVYVYSRVKNL",
-                  "description": "Envelope small membrane protein",
                   "from": 24,
                   "to": 81
                 },
                 "uniprot": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYSRVKNL",
                   "from": 8,
                   "to": 65
                 }
@@ -269,13 +185,10 @@
             "segments": [
               {
                 "smtl": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALRLAAYAANIVNVSLVKPTVYVYSRVKNL",
-                  "description": "Envelope small membrane protein",
                   "from": 24,
                   "to": 81
                 },
                 "uniprot": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYSRVKNL",
                   "from": 8,
                   "to": 65
                 }
@@ -287,13 +200,10 @@
             "segments": [
               {
                 "smtl": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALRLAAYAANIVNVSLVKPTVYVYSRVKNL",
-                  "description": "Envelope small membrane protein",
                   "from": 24,
                   "to": 81
                 },
                 "uniprot": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYSRVKNL",
                   "from": 8,
                   "to": 65
                 }
@@ -305,13 +215,10 @@
             "segments": [
               {
                 "smtl": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALRLAAYAANIVNVSLVKPTVYVYSRVKNL",
-                  "description": "Envelope small membrane protein",
                   "from": 24,
                   "to": 81
                 },
                 "uniprot": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYSRVKNL",
                   "from": 8,
                   "to": 65
                 }
@@ -323,13 +230,10 @@
             "segments": [
               {
                 "smtl": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALRLAAYAANIVNVSLVKPTVYVYSRVKNL",
-                  "description": "Envelope small membrane protein",
                   "from": 24,
                   "to": 81
                 },
                 "uniprot": {
-                  "aligned_sequence": "ETGTLIVNSVLLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYSRVKNL",
                   "from": 8,
                   "to": 65
                 }
@@ -337,47 +241,8 @@
             ]
           }
         ],
-        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC4.pdb?range=8-65&template=5x29.1.A&provider=swissmodel",
-        "coverage": 0.7733333333333333,
-        "created_date": "2021-03-12T07:51:09.883000+00:00",
-        "found_by": "BLAST",
         "from": 8,
-        "gmqe": 0.3614130699,
-        "identity": 91.3793106079,
-        "in_complex_with": {},
-        "md5": "375e0f905c315e06a99c80b736c125d2",
-        "method": "HOMOLOGY MODELLING",
-        "oligo-state": "homo-5-mer",
-        "provider": "SWISSMODEL",
-        "qmean": {
-          "acc_agreement_norm_score": 0.3965517241,
-          "acc_agreement_z_score": -2.6446341826,
-          "avg_local_score": 0.3925672155,
-          "avg_local_score_error": 0.052000000000000005,
-          "cbeta_norm_score": 0.0198414872,
-          "cbeta_z_score": -8.6597418285,
-          "interaction_norm_score": 0.0091733196,
-          "interaction_z_score": -7.2019343663,
-          "packing_norm_score": -0.187502777,
-          "packing_z_score": -3.2805473165,
-          "qmean4_norm_score": 0.3953230526,
-          "qmean4_z_score": -9.5645029454,
-          "qmean6_norm_score": 0.3201544686,
-          "qmean6_z_score": -10.135768427,
-          "ss_agreement_norm_score": 0.0272452587,
-          "ss_agreement_z_score": -5.3496967146,
-          "torsion_norm_score": 0.4576461073,
-          "torsion_z_score": -7.1545786637
-        },
-        "similarity": 0.5528736115,
-        "template": "5x29.1.A",
         "to": 65
-      }
-    ],
-    "uniprot_entries": [
-      {
-        "ac": "P0DTC4",
-        "id": "VEMP_SARS2"
       }
     ]
   }

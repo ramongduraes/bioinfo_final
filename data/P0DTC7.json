@@ -1,14 +1,5 @@
 {
-  "api_version": "2.0",
-  "query": {
-    "ac": "P0DTC7"
-  },
-  "query_date": "2021-03-15T23:27:32.146Z",
   "result": {
-    "crc64": "891E7EAB9E8A5BA9",
-    "md5": "f65213344e2e68de1cae4feb9c5e07b1",
-    "sequence": "MKIILFLALITLATCELYHYQECVRGTTVLLKEPCSSGTYEGNSPFHPLADNKFALTCFSTQFAFACPDGVKHVYQLRARSVSPKLFIRQEEVQELYSPIFLIVAAIVFITLCFTLKRKTE",
-    "sequence_length": 121,
     "structures": [
       {
         "chains": [
@@ -17,13 +8,10 @@
             "segments": [
               {
                 "pdb": {
-                  "aligned_sequence": "TCELYHYQECVRGTTVLLKEPCSSGTYEGNSPFHPLADNKFALTCFSTQFAFACPDGVKHVYQLRARSV",
-                  "description": "Orf7a protein",
                   "from": 2,
                   "to": 70
                 },
                 "uniprot": {
-                  "aligned_sequence": "TCELYHYQECVRGTTVLLKEPCSSGTYEGNSPFHPLADNKFALTCFSTQFAFACPDGVKHVYQLRARSV",
                   "from": 14,
                   "to": 82
                 }
@@ -31,16 +19,7 @@
             ]
           }
         ],
-        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC7.pdb?range=14-82&template=7ci3&provider=pdb",
-        "coverage": 0.5702479338842975,
-        "created_date": "2021-03-03",
         "from": 14,
-        "in_complex_with": {},
-        "md5": "f65213344e2e68de1cae4feb9c5e07b1",
-        "method": "X-RAY DIFFRACTION",
-        "oligo-state": "monomer",
-        "provider": "PDB",
-        "template": "7ci3",
         "to": 82
       },
       {
@@ -50,13 +29,10 @@
             "segments": [
               {
                 "pdb": {
-                  "aligned_sequence": "ELYHYQECVRGTTVLLKEPCSSGTYEGNSPFHPLADNKFALTCFSTQFAFACPDGVKHVYQLRARS",
-                  "description": "ORF7a protein",
                   "from": 1,
                   "to": 66
                 },
                 "uniprot": {
-                  "aligned_sequence": "ELYHYQECVRGTTVLLKEPCSSGTYEGNSPFHPLADNKFALTCFSTQFAFACPDGVKHVYQLRARS",
                   "from": 16,
                   "to": 81
                 }
@@ -64,16 +40,7 @@
             ]
           }
         ],
-        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC7.pdb?range=16-81&template=6w37&provider=pdb",
-        "coverage": 0.5454545454545454,
-        "created_date": "2020-04-29",
         "from": 16,
-        "in_complex_with": {},
-        "md5": "f65213344e2e68de1cae4feb9c5e07b1",
-        "method": "X-RAY DIFFRACTION",
-        "oligo-state": "monomer",
-        "provider": "PDB",
-        "template": "6w37",
         "to": 81
       },
       {
@@ -83,13 +50,10 @@
             "segments": [
               {
                 "smtl": {
-                  "aligned_sequence": "CELYHYQECVRGTTVILKEPCPSGTYEGNSPFHPLADNKFALTCTSTHFAFACADGTRHTYQLRARSV",
-                  "description": "SARS ORF7A ACCESSORY PROTEIN",
                   "from": 2,
                   "to": 69
                 },
                 "uniprot": {
-                  "aligned_sequence": "CELYHYQECVRGTTVLLKEPCSSGTYEGNSPFHPLADNKFALTCFSTQFAFACPDGVKHVYQLRARSV",
                   "from": 15,
                   "to": 82
                 }
@@ -97,40 +61,7 @@
             ]
           }
         ],
-        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC7.pdb?range=15-82&template=1xak.1.A&provider=swissmodel",
-        "coverage": 0.5619834710743802,
-        "created_date": "2021-03-12T07:51:30.798000+00:00",
-        "found_by": "HHblits",
         "from": 15,
-        "gmqe": 0.34337637730000004,
-        "identity": 87.8048782349,
-        "in_complex_with": {},
-        "md5": "f65213344e2e68de1cae4feb9c5e07b1",
-        "method": "HOMOLOGY MODELLING",
-        "oligo-state": "monomer",
-        "provider": "SWISSMODEL",
-        "qmean": {
-          "acc_agreement_norm_score": 0.6176470588,
-          "acc_agreement_z_score": -0.6875091085,
-          "avg_local_score": 0.8023056120000001,
-          "avg_local_score_error": 0.107,
-          "cbeta_norm_score": -0.022479544400000002,
-          "cbeta_z_score": 0.345348001,
-          "interaction_norm_score": -0.0242842976,
-          "interaction_z_score": -0.5156382164000001,
-          "packing_norm_score": -0.2706676051,
-          "packing_z_score": -1.074433129,
-          "qmean4_norm_score": 0.8207451614,
-          "qmean4_z_score": 0.3308309367,
-          "qmean6_norm_score": 0.7838447048,
-          "qmean6_z_score": -0.1667077296,
-          "ss_agreement_norm_score": 0.39985803670000003,
-          "ss_agreement_z_score": -1.1053848426,
-          "torsion_norm_score": -0.4744255975,
-          "torsion_z_score": 0.7731456198000001
-        },
-        "similarity": 0.5918697119,
-        "template": "1xak.1.A",
         "to": 82
       },
       {
@@ -140,13 +71,10 @@
             "segments": [
               {
                 "smtl": {
-                  "aligned_sequence": "ELYHYQECVRGTTVLLKEPCSSGTYEGNSPFHPLADNKFALTCFSTQFAFACPDGVKHVYQLRARS",
-                  "description": "ORF7a protein",
                   "from": 1,
                   "to": 66
                 },
                 "uniprot": {
-                  "aligned_sequence": "ELYHYQECVRGTTVLLKEPCSSGTYEGNSPFHPLADNKFALTCFSTQFAFACPDGVKHVYQLRARS",
                   "from": 16,
                   "to": 81
                 }
@@ -154,40 +82,7 @@
             ]
           }
         ],
-        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC7.pdb?range=16-81&template=6w37.1.A&provider=swissmodel",
-        "coverage": 0.5454545454545454,
-        "created_date": "2021-03-12T07:51:30.778000+00:00",
-        "found_by": "HHblits",
         "from": 16,
-        "gmqe": 0.3337458868,
-        "identity": 100.0,
-        "in_complex_with": {},
-        "md5": "f65213344e2e68de1cae4feb9c5e07b1",
-        "method": "HOMOLOGY MODELLING",
-        "oligo-state": "monomer",
-        "provider": "SWISSMODEL",
-        "qmean": {
-          "acc_agreement_norm_score": 0.6212121212,
-          "acc_agreement_z_score": -0.6292192498,
-          "avg_local_score": 0.7958671632000001,
-          "avg_local_score_error": 0.108,
-          "cbeta_norm_score": -0.0249679499,
-          "cbeta_z_score": 0.5674840689,
-          "interaction_norm_score": -0.025210273300000002,
-          "interaction_z_score": -0.46335497540000004,
-          "packing_norm_score": -0.2656717188,
-          "packing_z_score": -1.136794958,
-          "qmean4_norm_score": 0.7967036254000001,
-          "qmean4_z_score": -0.028307512400000002,
-          "qmean6_norm_score": 0.7708470595,
-          "qmean6_z_score": -0.36881411410000003,
-          "ss_agreement_norm_score": 0.4467286727,
-          "ss_agreement_z_score": -0.9156465568000001,
-          "torsion_norm_score": -0.39096773700000004,
-          "torsion_z_score": 0.33504319450000003
-        },
-        "similarity": 0.6328356862,
-        "template": "6w37.1.A",
         "to": 81
       },
       {
@@ -197,13 +92,10 @@
             "segments": [
               {
                 "smtl": {
-                  "aligned_sequence": "ELYHYQECVRGTTVLLKEPCPSGTYEGNSPFHPLADNKFALTCTSTHFAFACADGTRHTYQLRARSVSPKLFIRQEEVQQELYS",
-                  "description": "Hypothetical protein X4",
                   "from": 3,
                   "to": 86
                 },
                 "uniprot": {
-                  "aligned_sequence": "ELYHYQECVRGTTVLLKEPCSSGTYEGNSPFHPLADNKFALTCFSTQFAFACPDGVKHVYQLRARSVSPKLFIRQEEV-QELYS",
                   "from": 16,
                   "to": 98
                 }
@@ -211,47 +103,8 @@
             ]
           }
         ],
-        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC7.pdb?range=16-98&template=1yo4.1.A&provider=swissmodel",
-        "coverage": 0.6859504132231405,
-        "created_date": "2021-03-12T07:51:30.818000+00:00",
-        "found_by": "BLAST",
         "from": 16,
-        "gmqe": 0.4442041353,
-        "identity": 91.5662612915,
-        "in_complex_with": {},
-        "md5": "f65213344e2e68de1cae4feb9c5e07b1",
-        "method": "HOMOLOGY MODELLING",
-        "oligo-state": "monomer",
-        "provider": "SWISSMODEL",
-        "qmean": {
-          "acc_agreement_norm_score": 0.6144578313,
-          "acc_agreement_z_score": -0.5058974835,
-          "avg_local_score": 0.6999519892,
-          "avg_local_score_error": 0.093,
-          "cbeta_norm_score": -0.0052050439,
-          "cbeta_z_score": -1.3406259672,
-          "interaction_norm_score": -0.0156537955,
-          "interaction_z_score": -1.3245975948,
-          "packing_norm_score": -0.2220872203,
-          "packing_z_score": -1.6461399981,
-          "qmean4_norm_score": 0.5218506782,
-          "qmean4_z_score": -4.3513954621,
-          "qmean6_norm_score": 0.5173450795,
-          "qmean6_z_score": -4.1418889999,
-          "ss_agreement_norm_score": 0.3631512201,
-          "ss_agreement_z_score": -1.6900144908999999,
-          "torsion_norm_score": 0.27430346780000003,
-          "torsion_z_score": -3.4517821386
-        },
-        "similarity": 0.5959836841,
-        "template": "1yo4.1.A",
         "to": 98
-      }
-    ],
-    "uniprot_entries": [
-      {
-        "ac": "P0DTC7",
-        "id": "NS7A_SARS2"
       }
     ]
   }
