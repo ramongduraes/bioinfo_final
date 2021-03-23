@@ -1,5 +1,14 @@
 {
+  "api_version": "2.0",
+  "query": {
+    "ac": "P0DTC3"
+  },
+  "query_date": "2021-03-15T23:27:13.068Z",
   "result": {
+    "crc64": "4688E6D477E031C4",
+    "md5": "f5c8b89ceac3f14e456577557df1ef40",
+    "sequence": "MDLFMRIFTIGTVTLKQGEIKDATPSDFVRATATIPIQASLPFGWLIVGVALLAVFQSASKIITLKKRWQLALSKGVHFVCNLLLLFVTVYSHLLLVAAGLEAPFLYLYALVYFLQSINFVRIIMRLWLCWKCRSKNPLLYDANYFLCWHTNCYDYCIPYNSVTSSIVITSGDGTTSPISEHDYQIGGYTEKWESGVKDCVVLHSYFTSDYYQLYSTQLSTDTGVEHVTFFIYNKIVDEPEEHVQIHTIDGSSGVVNPVMEPIYDEPTTTTSVPL",
+    "sequence_length": 275,
     "structures": [
       {
         "chains": [
@@ -8,10 +17,13 @@
             "segments": [
               {
                 "pdb": {
+                  "aligned_sequence": "SLPFGWLIVGVALLAVFQSASKIITLKKRWQLALSKGVHFVCNLLLLFVTVYSHLLLVAAGLEAPFLYLYALVYFLQSINFVRIIMRLWLCWKCRSKNPLLYDANYFLCWHTNCYDYCIPYNSVTSSIVITSGDG------EHDYQIGGYTEKWESGVKDCVVLHSYFTSDYYQLYSTQLSTDTGVEHVTFFIYNKIVD",
+                  "description": "ORF3a protein",
                   "from": 40,
                   "to": 238
                 },
                 "uniprot": {
+                  "aligned_sequence": "SLPFGWLIVGVALLAVFQSASKIITLKKRWQLALSKGVHFVCNLLLLFVTVYSHLLLVAAGLEAPFLYLYALVYFLQSINFVRIIMRLWLCWKCRSKNPLLYDANYFLCWHTNCYDYCIPYNSVTSSIVITSGDGTTSPISEHDYQIGGYTEKWESGVKDCVVLHSYFTSDYYQLYSTQLSTDTGVEHVTFFIYNKIVD",
                   "from": 40,
                   "to": 238
                 }
@@ -23,10 +35,13 @@
             "segments": [
               {
                 "pdb": {
+                  "aligned_sequence": "SLPFGWLIVGVALLAVFQSASKIITLKKRWQLALSKGVHFVCNLLLLFVTVYSHLLLVAAGLEAPFLYLYALVYFLQSINFVRIIMRLWLCWKCRSKNPLLYDANYFLCWHTNCYDYCIPYNSVTSSIVITSGDG------EHDYQIGGYTEKWESGVKDCVVLHSYFTSDYYQLYSTQLSTDTGVEHVTFFIYNKIVD",
+                  "description": "ORF3a protein",
                   "from": 40,
                   "to": 238
                 },
                 "uniprot": {
+                  "aligned_sequence": "SLPFGWLIVGVALLAVFQSASKIITLKKRWQLALSKGVHFVCNLLLLFVTVYSHLLLVAAGLEAPFLYLYALVYFLQSINFVRIIMRLWLCWKCRSKNPLLYDANYFLCWHTNCYDYCIPYNSVTSSIVITSGDGTTSPISEHDYQIGGYTEKWESGVKDCVVLHSYFTSDYYQLYSTQLSTDTGVEHVTFFIYNKIVD",
                   "from": 40,
                   "to": 238
                 }
@@ -34,17 +49,40 @@
             ]
           }
         ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC3.pdb?range=40-238&template=7kjr&provider=pdb",
+        "coverage": 0.7236363636363636,
+        "created_date": "2020-11-18",
         "from": 40,
+        "in_complex_with": {
+          "C": [
+            {
+              "description": "Apolipoprotein A-I",
+              "uniprot_ac": "P02647"
+            }
+          ],
+          "D": [
+            {
+              "description": "Apolipoprotein A-I",
+              "uniprot_ac": "P02647"
+            }
+          ]
+        },
         "ligand_chains": [
           {
             "count": 2,
             "ligands": [
               {
+                "description": "1,2-Dioleoyl-sn-glycero-3-phosphoethanolamine",
                 "hetid": "PEE"
               }
             ]
           }
         ],
+        "md5": "f5c8b89ceac3f14e456577557df1ef40",
+        "method": "ELECTRON MICROSCOPY",
+        "oligo-state": "heteromer",
+        "provider": "PDB",
+        "template": "7kjr",
         "to": 238
       },
       {
@@ -54,10 +92,13 @@
             "segments": [
               {
                 "pdb": {
+                  "aligned_sequence": "SLPFGWLIVGVALLAVFQSASKIITLKKRWQLALSKGVHFVCNLLLLFVTVYSHLLLVAAGLEAPFLYLYALVYFLQSINFVRIIMRLWLCWKCRSKNPLLYDANYFLCWHTNCYDYCIPYNSVTSSIVITSGDG------EHDYQIGGYTEKWESGVKDCVVLHSYFTSDYYQLYSTQLSTDTGVEHVTFFIYNKIVD",
+                  "description": "ORF3a protein",
                   "from": 40,
                   "to": 238
                 },
                 "uniprot": {
+                  "aligned_sequence": "SLPFGWLIVGVALLAVFQSASKIITLKKRWQLALSKGVHFVCNLLLLFVTVYSHLLLVAAGLEAPFLYLYALVYFLQSINFVRIIMRLWLCWKCRSKNPLLYDANYFLCWHTNCYDYCIPYNSVTSSIVITSGDGTTSPISEHDYQIGGYTEKWESGVKDCVVLHSYFTSDYYQLYSTQLSTDTGVEHVTFFIYNKIVD",
                   "from": 40,
                   "to": 238
                 }
@@ -69,10 +110,13 @@
             "segments": [
               {
                 "pdb": {
+                  "aligned_sequence": "SLPFGWLIVGVALLAVFQSASKIITLKKRWQLALSKGVHFVCNLLLLFVTVYSHLLLVAAGLEAPFLYLYALVYFLQSINFVRIIMRLWLCWKCRSKNPLLYDANYFLCWHTNCYDYCIPYNSVTSSIVITSGDG------EHDYQIGGYTEKWESGVKDCVVLHSYFTSDYYQLYSTQLSTDTGVEHVTFFIYNKIVD",
+                  "description": "ORF3a protein",
                   "from": 40,
                   "to": 238
                 },
                 "uniprot": {
+                  "aligned_sequence": "SLPFGWLIVGVALLAVFQSASKIITLKKRWQLALSKGVHFVCNLLLLFVTVYSHLLLVAAGLEAPFLYLYALVYFLQSINFVRIIMRLWLCWKCRSKNPLLYDANYFLCWHTNCYDYCIPYNSVTSSIVITSGDGTTSPISEHDYQIGGYTEKWESGVKDCVVLHSYFTSDYYQLYSTQLSTDTGVEHVTFFIYNKIVD",
                   "from": 40,
                   "to": 238
                 }
@@ -80,7 +124,16 @@
             ]
           }
         ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC3.pdb?range=40-238&template=6xdc&provider=pdb",
+        "coverage": 0.7236363636363636,
+        "created_date": "2020-06-17",
         "from": 40,
+        "in_complex_with": {},
+        "md5": "f5c8b89ceac3f14e456577557df1ef40",
+        "method": "ELECTRON MICROSCOPY",
+        "oligo-state": "homo-2-mer",
+        "provider": "PDB",
+        "template": "6xdc",
         "to": 238
       },
       {
@@ -90,10 +143,13 @@
             "segments": [
               {
                 "smtl": {
+                  "aligned_sequence": "SLPFGWLIVGVALLAVFQSASKIITLKKRWQLALSKGVHFVCNLLLLFVTVYSHLLLVAAGLEAPFLYLYALVYFLQSINFVRIIMRLWLCWKCRSKNPLLYDANYFLCWHTNCYDYCIPYNSVTSSIVITSGDGTTSPISEHDYQIGGYTEKWESGVKDCVVLHSYFTSDYYQLYSTQLSTDTGVEHVTFFIYNKIVD",
+                  "description": "ORF3a protein",
                   "from": 40,
                   "to": 238
                 },
                 "uniprot": {
+                  "aligned_sequence": "SLPFGWLIVGVALLAVFQSASKIITLKKRWQLALSKGVHFVCNLLLLFVTVYSHLLLVAAGLEAPFLYLYALVYFLQSINFVRIIMRLWLCWKCRSKNPLLYDANYFLCWHTNCYDYCIPYNSVTSSIVITSGDGTTSPISEHDYQIGGYTEKWESGVKDCVVLHSYFTSDYYQLYSTQLSTDTGVEHVTFFIYNKIVD",
                   "from": 40,
                   "to": 238
                 }
@@ -105,10 +161,13 @@
             "segments": [
               {
                 "smtl": {
+                  "aligned_sequence": "SLPFGWLIVGVALLAVFQSASKIITLKKRWQLALSKGVHFVCNLLLLFVTVYSHLLLVAAGLEAPFLYLYALVYFLQSINFVRIIMRLWLCWKCRSKNPLLYDANYFLCWHTNCYDYCIPYNSVTSSIVITSGDGTTSPISEHDYQIGGYTEKWESGVKDCVVLHSYFTSDYYQLYSTQLSTDTGVEHVTFFIYNKIVD",
+                  "description": "ORF3a protein",
                   "from": 40,
                   "to": 238
                 },
                 "uniprot": {
+                  "aligned_sequence": "SLPFGWLIVGVALLAVFQSASKIITLKKRWQLALSKGVHFVCNLLLLFVTVYSHLLLVAAGLEAPFLYLYALVYFLQSINFVRIIMRLWLCWKCRSKNPLLYDANYFLCWHTNCYDYCIPYNSVTSSIVITSGDGTTSPISEHDYQIGGYTEKWESGVKDCVVLHSYFTSDYYQLYSTQLSTDTGVEHVTFFIYNKIVD",
                   "from": 40,
                   "to": 238
                 }
@@ -116,8 +175,47 @@
             ]
           }
         ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC3.pdb?range=40-238&template=6xdc.1.A&provider=swissmodel",
+        "coverage": 0.7236363636363636,
+        "created_date": "2021-03-12T07:51:02.621000+00:00",
+        "found_by": "HHblits",
         "from": 40,
+        "gmqe": 0.5323942965,
+        "identity": 100.0,
+        "in_complex_with": {},
+        "md5": "f5c8b89ceac3f14e456577557df1ef40",
+        "method": "HOMOLOGY MODELLING",
+        "oligo-state": "homo-2-mer",
+        "provider": "SWISSMODEL",
+        "qmean": {
+          "acc_agreement_norm_score": 0.6155778894,
+          "acc_agreement_z_score": -0.8055376735,
+          "avg_local_score": 0.7748697006,
+          "avg_local_score_error": 0.053,
+          "cbeta_norm_score": 0.00035693920000000003,
+          "cbeta_z_score": -4.133629959,
+          "interaction_norm_score": -0.0241701728,
+          "interaction_z_score": 0.5489890956,
+          "packing_norm_score": -0.3025306481,
+          "packing_z_score": -1.3493439817000001,
+          "qmean4_norm_score": 0.6670692782000001,
+          "qmean4_z_score": -2.9746033858,
+          "qmean6_norm_score": 0.6599246466,
+          "qmean6_z_score": -2.8722274354,
+          "ss_agreement_norm_score": 0.5627802329,
+          "ss_agreement_z_score": -0.690945865,
+          "torsion_norm_score": -0.1265428982,
+          "torsion_z_score": -1.9826708601
+        },
+        "similarity": 0.6203645468,
+        "template": "6xdc.1.A",
         "to": 238
+      }
+    ],
+    "uniprot_entries": [
+      {
+        "ac": "P0DTC3",
+        "id": "AP3A_SARS2"
       }
     ]
   }
