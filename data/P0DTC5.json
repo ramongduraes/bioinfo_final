@@ -1,5 +1,14 @@
 {
+  "api_version": "2.0",
+  "query": {
+    "ac": "P0DTC5"
+  },
+  "query_date": "2021-03-15T23:27:20.624Z",
   "result": {
+    "crc64": "ED44D84C3BB9A6DB",
+    "md5": "1cd6abff79ad3633e17582eb0e576539",
+    "sequence": "MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPVTLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILLNVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYKLGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ",
+    "sequence_length": 222,
     "structures": [
       {
         "chains": [
@@ -8,10 +17,13 @@
             "segments": [
               {
                 "smtl": {
+                  "aligned_sequence": "GDLNRFDVVVFHANKKEDYVKRIIGL-PGDHIEYKHDKLYVNGQFVDE",
+                  "description": "Signal peptidase I",
                   "from": 50,
                   "to": 96
                 },
                 "uniprot": {
+                  "aligned_sequence": "FNPETNILLNVPLH-GTILTRPLLESELVIGAVILRGHLRIAGHHLGR",
                   "from": 112,
                   "to": 158
                 }
@@ -19,7 +31,39 @@
             ]
           }
         ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC5.pdb?range=112-158&template=4nv4.1.A&provider=swissmodel",
+        "coverage": 0.21171171171171171,
+        "created_date": "2020-04-04T08:00:30.074000+00:00",
         "from": 112,
+        "gmqe": 0.07400000100000001,
+        "identity": 4.347826004,
+        "in_complex_with": {},
+        "md5": "1cd6abff79ad3633e17582eb0e576539",
+        "method": "HOMOLOGY MODELLING",
+        "oligo-state": "monomer",
+        "provider": "SWISSMODEL",
+        "qmean": {
+          "acc_agreement_norm_score": 0.08510638300000001,
+          "acc_agreement_z_score": -5.9118184671,
+          "avg_local_score": 0.19181632140000002,
+          "avg_local_score_error": 0.115,
+          "cbeta_norm_score": 0.0009278711000000001,
+          "cbeta_z_score": -1.5952534873,
+          "interaction_norm_score": -0.0102000495,
+          "interaction_z_score": -1.4307201793,
+          "packing_norm_score": 0.2103420028,
+          "packing_z_score": -2.992019009,
+          "qmean4_norm_score": 0.4244001798,
+          "qmean4_z_score": -3.2210711814,
+          "qmean6_norm_score": 0.35715185180000003,
+          "qmean6_z_score": -3.5719389667,
+          "ss_agreement_norm_score": 0.3098498107,
+          "ss_agreement_z_score": -1.2687303081,
+          "torsion_norm_score": 0.230609001,
+          "torsion_z_score": -2.1945917021
+        },
+        "similarity": 0.2159434259,
+        "template": "4nv4.1.A",
         "to": 158
       },
       {
@@ -29,10 +73,13 @@
             "segments": [
               {
                 "smtl": {
+                  "aligned_sequence": "PLRQQFVGAVSMASLISMFASP-LAVMGVVIRSESV",
+                  "description": "Bidirectional sugar transporter SWEET2b",
                   "from": 129,
                   "to": 163
                 },
                 "uniprot": {
+                  "aligned_sequence": "NWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSM",
                   "from": 74,
                   "to": 109
                 }
@@ -44,10 +91,13 @@
             "segments": [
               {
                 "smtl": {
+                  "aligned_sequence": "PLRQQFVGAVSMASLISMFASP-LAVMGVVIRSESV",
+                  "description": "Bidirectional sugar transporter SWEET2b",
                   "from": 129,
                   "to": 163
                 },
                 "uniprot": {
+                  "aligned_sequence": "NWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSM",
                   "from": 74,
                   "to": 109
                 }
@@ -59,10 +109,13 @@
             "segments": [
               {
                 "smtl": {
+                  "aligned_sequence": "PLRQQFVGAVSMASLISMFASP-LAVMGVVIRSESV",
+                  "description": "Bidirectional sugar transporter SWEET2b",
                   "from": 129,
                   "to": 163
                 },
                 "uniprot": {
+                  "aligned_sequence": "NWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSM",
                   "from": 74,
                   "to": 109
                 }
@@ -70,7 +123,39 @@
             ]
           }
         ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC5.pdb?range=74-109&template=5ctg.1.A&provider=swissmodel",
+        "coverage": 0.16216216216216217,
+        "created_date": "2020-04-04T08:00:30.045000+00:00",
         "from": 74,
+        "gmqe": 0.07400000100000001,
+        "identity": 14.2857141495,
+        "in_complex_with": {},
+        "md5": "1cd6abff79ad3633e17582eb0e576539",
+        "method": "HOMOLOGY MODELLING",
+        "oligo-state": "homo-3-mer",
+        "provider": "SWISSMODEL",
+        "qmean": {
+          "acc_agreement_norm_score": 0.12962962960000002,
+          "acc_agreement_z_score": -7.5679833604999995,
+          "avg_local_score": 0.3320158288,
+          "avg_local_score_error": 0.078,
+          "cbeta_norm_score": 0.0230422371,
+          "cbeta_z_score": -5.3708804401,
+          "interaction_norm_score": -0.03884871,
+          "interaction_z_score": 1.3320370369,
+          "packing_norm_score": -0.1902654543,
+          "packing_z_score": -1.9790940769,
+          "qmean4_norm_score": 0.5624464546,
+          "qmean4_z_score": -4.2193131397,
+          "qmean6_norm_score": 0.5198171332,
+          "qmean6_z_score": -4.6746490381,
+          "ss_agreement_norm_score": 0.8828379942000001,
+          "ss_agreement_z_score": 1.0504026839,
+          "torsion_norm_score": -0.0058815392,
+          "torsion_z_score": -2.4743835957
+        },
+        "similarity": 0.2628513873,
+        "template": "5ctg.1.A",
         "to": 109
       },
       {
@@ -80,10 +165,13 @@
             "segments": [
               {
                 "smtl": {
+                  "aligned_sequence": "GVNQLDINQDGLKDYVVLAQ-----------FDNNTSHPNLGLTFFIHRPDGGYSIMPVT",
+                  "description": "CarG",
                   "from": 9,
                   "to": 57
                 },
                 "uniprot": {
+                  "aligned_sequence": "GHHLGRCDIKDLPKEITVATSRTLSYYKLGASQRVA--GDSGFAAYSRYRIGNYKLNTDH",
                   "from": 153,
                   "to": 210
                 }
@@ -95,10 +183,13 @@
             "segments": [
               {
                 "smtl": {
+                  "aligned_sequence": "GVNQLDINQDGLKDYVVLAQ-----------FDNNTSHPNLGLTFFIHRPDGGYSIMPVT",
+                  "description": "CarG",
                   "from": 9,
                   "to": 57
                 },
                 "uniprot": {
+                  "aligned_sequence": "GHHLGRCDIKDLPKEITVATSRTLSYYKLGASQRVA--GDSGFAAYSRYRIGNYKLNTDH",
                   "from": 153,
                   "to": 210
                 }
@@ -106,7 +197,39 @@
             ]
           }
         ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC5.pdb?range=153-210&template=4o7j.1.A&provider=swissmodel",
+        "coverage": 0.26126126126126126,
+        "created_date": "2020-04-04T08:00:30.013000+00:00",
         "from": 153,
+        "gmqe": 0.0680000037,
+        "identity": 12.7659578323,
+        "in_complex_with": {},
+        "md5": "1cd6abff79ad3633e17582eb0e576539",
+        "method": "HOMOLOGY MODELLING",
+        "oligo-state": "homo-2-mer",
+        "provider": "SWISSMODEL",
+        "qmean": {
+          "acc_agreement_norm_score": 0.48275862070000003,
+          "acc_agreement_z_score": -2.2930925590999998,
+          "avg_local_score": 0.28452707850000003,
+          "avg_local_score_error": 0.078,
+          "cbeta_norm_score": 0.0056839296,
+          "cbeta_z_score": -3.1112638734,
+          "interaction_norm_score": -0.0067943923,
+          "interaction_z_score": -2.4247223388,
+          "packing_norm_score": -0.0463735605,
+          "packing_z_score": -3.6556436245,
+          "qmean4_norm_score": 0.3452687908,
+          "qmean4_z_score": -8.0907466136,
+          "qmean6_norm_score": 0.3427639609,
+          "qmean6_z_score": -7.692379595,
+          "ss_agreement_norm_score": 0.3162818536,
+          "ss_agreement_z_score": -2.0005823735,
+          "torsion_norm_score": 0.6091859452,
+          "torsion_z_score": -6.4749221476
+        },
+        "similarity": 0.2581573725,
+        "template": "4o7j.1.A",
         "to": 210
       },
       {
@@ -116,10 +239,13 @@
             "segments": [
               {
                 "smtl": {
+                  "aligned_sequence": "KFGNPLVQNNRITRAVCDLTNEHT-----TKDGSWHYVEVDNECKYLAGDNPRDQPGWAVFVKY",
+                  "description": "Uncharacterized protein",
                   "from": 12,
                   "to": 70
                 },
                 "uniprot": {
+                  "aligned_sequence": "LRGHLRIAGHHLGR--CDIKDLPKEITVATSRTLSYYKL-------GASQRVAGDSGFAAYSRY",
                   "from": 145,
                   "to": 199
                 }
@@ -131,10 +257,13 @@
             "segments": [
               {
                 "smtl": {
+                  "aligned_sequence": "KFGNPLVQNNRITRAVCDLTNEHT-----TKDGSWHYVEVDNECKYLAGDNPRDQPGWAVFVKY",
+                  "description": "Uncharacterized protein",
                   "from": 12,
                   "to": 70
                 },
                 "uniprot": {
+                  "aligned_sequence": "LRGHLRIAGHHLGR--CDIKDLPKEITVATSRTLSYYKL-------GASQRVAGDSGFAAYSRY",
                   "from": 145,
                   "to": 199
                 }
@@ -142,8 +271,46 @@
             ]
           }
         ],
+        "coordinates": "https://swissmodel.expasy.org/repository/uniprot/P0DTC5.pdb?range=145-199&template=6qpk.1.A&provider=swissmodel",
+        "coverage": 0.24774774774774774,
+        "created_date": "2020-04-04T08:00:30.152000+00:00",
         "from": 145,
+        "gmqe": 0.06199999900000001,
+        "identity": 20.0,
+        "in_complex_with": {},
+        "md5": "1cd6abff79ad3633e17582eb0e576539",
+        "method": "HOMOLOGY MODELLING",
+        "oligo-state": "homo-2-mer",
+        "provider": "SWISSMODEL",
+        "qmean": {
+          "acc_agreement_norm_score": 0.3181818182,
+          "acc_agreement_z_score": -4.8272638241,
+          "avg_local_score": 0.291623986,
+          "avg_local_score_error": 0.078,
+          "cbeta_norm_score": 0.013805281,
+          "cbeta_z_score": -4.147284524,
+          "interaction_norm_score": 0.0127771801,
+          "interaction_z_score": -4.68938545,
+          "packing_norm_score": 0.1742469713,
+          "packing_z_score": -6.0922076935,
+          "qmean4_norm_score": 0.33783245970000003,
+          "qmean4_z_score": -8.5918374277,
+          "qmean6_norm_score": 0.1229278688,
+          "qmean6_z_score": -11.9865045457,
+          "ss_agreement_norm_score": -1.2611851956,
+          "ss_agreement_z_score": -10.4440376797,
+          "torsion_norm_score": 0.414667296,
+          "torsion_z_score": -5.525749156
+        },
+        "similarity": 0.3093339205,
+        "template": "6qpk.1.A",
         "to": 199
+      }
+    ],
+    "uniprot_entries": [
+      {
+        "ac": "P0DTC5",
+        "id": "VME1_SARS2"
       }
     ]
   }
